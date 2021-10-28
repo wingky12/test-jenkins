@@ -7,7 +7,7 @@ node {
     }
 
     stage('Build image') {
-        app = docker.build("wingky/php8:apache2-mysql")
+        app = docker.build("wingky/php8:apache2-mysql1")
     }
 
     stage('Test image') {
