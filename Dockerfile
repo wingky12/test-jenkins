@@ -5,5 +5,4 @@ FROM wingky/php8.0.12:latest
 LABEL maintainer "w.firnando@umrah.ac.id"
 
 
-RUN mkdir public
-RUN echo "<?php echo 'hello world'; ?>" > /var/www/html/public/index.php
+COPY index.php  /var/www/html/public/
