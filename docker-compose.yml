@@ -11,7 +11,8 @@ services:
     networks:
       - internal
     volumes:
-      - app_test:/var/www/html
+      - app_test:/var/www/html/public/data
+    
 volumes:
   app_test:
 

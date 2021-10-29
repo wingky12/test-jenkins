@@ -6,3 +6,4 @@ LABEL maintainer "w.firnando@umrah.ac.id"
 
 
 COPY index.php  /var/www/html/public/
+RUN mkdir /var/www/html/public/data
