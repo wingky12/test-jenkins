@@ -5,5 +5,7 @@ echo "mantap";
 echo "</br>";
 echo "bro";
 echo "</br>";
-echo "joss mantap";
+echo "joss mantap </br>";
+echo "Alhamdulilah";
+
  ?>
