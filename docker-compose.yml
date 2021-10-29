@@ -13,7 +13,7 @@ services:
     volumes:
       - app_test:/var/www/html
 volumes:
-  app:
+  app_test:
 
 networks:
   internal:
