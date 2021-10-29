@@ -10,7 +10,10 @@ services:
       - "8090:80"
     networks:
       - internal
-
+    volumes:
+      - app
+volumes:
+  app:
 
 networks:
   internal:
