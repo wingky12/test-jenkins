@@ -10,4 +10,5 @@ echo "Alhamdulilah ";
 echo "keren <\br>";
 echo "upt tik";
 echo "</br>";
+echo "ok om";
  ?>
