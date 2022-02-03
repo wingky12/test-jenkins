@@ -13,4 +13,5 @@ echo "</br>";
 echo "ok om";
 echo "ALhamdulillah keren cuy";
 echo "hmmmm";
+echo "^_^";
  ?>
